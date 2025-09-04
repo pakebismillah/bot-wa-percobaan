@@ -1,0 +1,26 @@
+{
+  "name": "bot_wa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@langchain/community": "^0.3.53",
+    "@langchain/langgraph": "^0.4.8",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "langchain": "^0.3.31",
+    "nodemon": "^3.1.10",
+    "openai": "^4.62.1",
+    "path": "^0.12.7",
+    "puppeteer": "^24.18.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.33.2"
+  }
+}
